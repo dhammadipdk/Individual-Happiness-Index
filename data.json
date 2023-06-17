@@ -1,0 +1,159 @@
+{
+  "question": [
+    "Q1. Indicate how important Family is in your life?",
+    "Q2. Indicate how important Friends is in your life?",
+    "Q3. Indicate how important Work is in your life?",
+    "Q4. Indicate how important Religion is in your life?",
+    "Q5. One of my main goals in life has been to make my parents proud",
+    "Q6. All in all, how would you describe your state of health these days? Would you say it is :",
+    "Q7. Some people feel they have completely free choice and control over their lives,while other people that what they do has no real effect on what happens to them. Please use this scale where I means (no choice at all) and 10 means (a great deal of choice) o indicate how much freedom of choice and control you feel you have over the way your life turns out",
+    "Q8. All things considered,how satisfied are you wuth your life as a whole these days ? using this card on which 1 means you are (completely dissatisfied) and 10 means you are (completely satisfied) where would you put have over the way your life turns out",
+    "Q9. How staisfied are you with the financial situation of your household ? please use this card again to help with your answer",
+    "Q10. In the last 12 months, How often have you or your family for enough food to eat",
+    "Q11. In the last 12 months, How often have you or your family for Gone without a cash income",
+    "Q12. Nowadays there's a lot of talk about international organization. People sometimes say that international organization should prioritize improving people's lives, even if this may imply that decisions are not made democratically.What do you think should international organization prioritize,being effective or begin democratic ? If your views are somewhat mixed,choose the appropriate number in between.",
+    "Q13. Now I'd like you tell me your views on various issues .How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right;and if your views fall somewhere in between, you can choose any number in between.(Incomes should be made more equal or not)",
+    "Q14. Now I'd like you tell me your views on various issues .How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right;and if your views fall somewhere in between, you can choose any number in between.(Goverment should take more responsibility to ensure that everyone is provided for or not)",
+    "Q15. Can you tell me how strongly you agree or disagree with the following statement: (on the whole, women are less corrupt than men)?",
+    "Q16.  How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service? To indicate your opinion, use a 10-point scale where 1 means no risk at all and 10 means very high risk.",
+    "Q17. Now we would like to know your opinion about the people from other countries who come to live in [your country] - the immigrants. How would you evaluate the impact of these people on the development of [your country]?",
+    "Q18. Could you tell me how secure do you feel these days?",
+    "Q19. To what degree are you worried about Losing my job or not finding a job",
+    "Q20. To what degree are you worried about Not being able to give my children a good education",
+    "Q21. Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you (completely disagree) and a 10 means that you (completely agree) , Science and technology are making our lives healthier, easier, and more comfortable",
+    "Q22. Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you (completely disagree) and a 10 means that you (completely agree) , We depend too much on science and not enough on faith.",
+    "Q23. How important is God in your life? Please use this scale to indicate. 10 means (very important) and 1 means (not at all important) ",
+    "Q24. Independently of whether you attend religious services or not, would you say you are?",
+    "Q25.  How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
+    "Q26.  How interested would you say you are in politics? Are you",
+    "Q27.  In political matters, people talk of (the left) and (the right). How would you place your views on this scale, generally speaking?",
+    "Q28.  How much respect is there for individual human rights nowadays in this country? Do you feel there is",
+    "Q29.  Respondent's sex",
+    "Q30. Are you currently "
+  ],
+  "answer": [
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4, 5],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 0],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [5, 4, 3, 2, 1],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4],
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    [1, 2, 3, 4],
+    [1, 2],
+    [1, 2, 3, 4, 5, 6]
+  ],
+  "options": [
+    [
+      "Very Important", "Rather Important", "Not Very Important", "Not at all Important"
+    ],
+    [
+      "Very Important", "Rather Important", "Not Very Important", "Not at all Important"
+    ],
+    [
+      "Very Important", "Rather Important", "Not Very Important", "Not at all Important"
+    ],
+    [
+      "Very Important", "Rather Important", "Not Very Important", "Not at all Important"
+    ],
+    [
+      "Strongly Agree", "Agree", "Disagree", "Strongly Disagree"
+    ],
+    [
+      "Very Good", "Good", "Fair", "Poor", "Very Poor"
+    ],
+    [
+      "Completely Dissatisfied 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Satisfied"
+    ],
+    [
+      "Completely Dissatisfied 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Satisfied"
+    ],
+    [
+      "Completely Dissatisfied 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Satisfied"
+    ],
+    [
+      "Often", "Sometimes", "Rarely", "Never","","","","","",""
+    ],
+    [
+      "Often", "Sometimes", "Rarely", "Never","","","","","",""
+    ],
+    [
+      "Completely Effective 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Being Democratic "
+    ],
+    [
+      "Income made more Equal 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 greater incentives for individual"
+    ],
+    [
+      "Gvt take responsi. for everyone 1",  "2", "3", "4", "5", "6", "7","8", "9", "10People should take respons."
+    ],
+    [
+      "Strongly Agree", "Agree", "Disagree", "Strongly disagree", "Hard to say","","","","","",""
+    ],
+    [
+      "No Risk 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 High Risk"
+    ],
+    [
+      "Very Good", "Quite Good", "Niether Good Nor Bad", "Quite Bad", "Very Bad","","","","",""
+    ],
+    [
+      "Very Secure", "Quite Secure", "Not Very Secure", "Not at all Secure","","","","","",""
+    ],
+    [
+      "Very Much", "A Good Deal", "Not Much", "Not at all","","","","","",""
+    ],
+    [
+      "Very Much", "A Good Deal", "Not Much", "Not at all"
+    ],
+    [
+      "Completely Disagree 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Agree"  
+    ],
+    [
+      "Completely Disagree 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Agree"  
+    ],
+    [
+      "No Important 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Very Important"
+    ],
+    [
+      "A Religious Person", "Not a Religious Person", "Athiest","","","","","","",""
+    ],
+    [
+      "Completely Agree 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Completely Disagree"  
+    ],
+    [
+      "Very Interested", "Somewhat Interested", "Not Very Interested", "Not at all Interested","","","","",""
+    ],
+    [
+      "Left 1",  "2", "3", "4", "5", "6", "7","8", "9", "10 Right"
+    ],
+    [
+      "A Great Deal of Person", "Fairly much respect", "Not much Respect", "No respect at all","","","","","","","","","","",""
+    ],
+    [
+      "Male", "Female","","","","","","","",""
+    ],
+    [
+      "Married", "Living Together as married", "Divorced", "Separated", "Widowed", "Single","","","","",""
+    ]
+  ]
+}
+
